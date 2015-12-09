@@ -1,0 +1,28 @@
+name: chapter45
+favicon: null
+layout_spectrum: 0.2794259700458497
+typography_spectrum: 0.09213209454901516
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.33751391246914864
+  lightness: 0.3304791592527181
+  saturation: 0.8611010338645428
+  rhythmicContrast: 0.9586131132673472
+purpose: []
